@@ -36,4 +36,4 @@ B.Sc. Information Technology student from Dehradun with a strong interest in web
 - Email: bhoomirawat456@gmail.com
 - LinkedIn: [bhoomiirawat](https://linkedin.com/in/bhoomiirawat)
 - GitHub: [bhoomirawat](https://github.com/bhoomirawat)
-- Resume: [View Resume](https://drive.google.com/file/d/1uhAbvflZLwPcCJgdu4txSZ4WdKQdGdLq/view?usp=drivesdk)
+- Resume: [View Resume](BhoomiRawat_CV.pdf)
