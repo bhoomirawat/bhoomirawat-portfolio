@@ -21,7 +21,7 @@ A single-page personal portfolio website showcasing my projects, skills, and jou
 - Scroll-triggered reveal animations using Intersection Observer
 
 ## 📌 About Me
-B.Sc. Information Technology student from Dehradun with a strong interest in web development, software engineering, and building real-world projects.
+B.Sc. Information Technology student from Delhi with a strong interest in web development, software engineering, and building real-world projects.
 
 ## 🧠 Skills Highlighted
 **Languages:** Java, HTML, CSS, JavaScript, SQL, React.js
