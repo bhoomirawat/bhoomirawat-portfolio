@@ -36,4 +36,3 @@ B.Sc. Information Technology student from Delhi with a strong interest in web de
 - Email: bhoomirawat456@gmail.com
 - LinkedIn: [bhoomiirawat](https://linkedin.com/in/bhoomiirawat)
 - GitHub: [bhoomirawat](https://github.com/bhoomirawat)
-- Resume: [View Resume](https://github.com/bhoomirawat/bhoomirawat-portfolio/blob/main/BhoomiRawat_CV.pdf)
